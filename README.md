@@ -1,5 +1,5 @@
-# MySQL Managment Application
-Student coursework on the topic bank managment system<br>
+# MySQL Management Application
+Student coursework on the topic bank management system<br>
 <ul>
 <li><strong>Programming Language: Java</strong></li>
 <li><strong>DBMS: MySQL</strong></li>
