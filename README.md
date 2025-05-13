@@ -1,5 +1,5 @@
 # MySQL Management Application
-Student coursework on the topic bank management system<br>
+Student coursework on the topic of bank management system<br>
 <ul>
 <li><strong>Programming Language: Java</strong></li>
 <li><strong>DBMS: MySQL</strong></li>
@@ -9,7 +9,7 @@ Student coursework on the topic bank management system<br>
 <li><strong>HTML, CSS, JSP</strong></li>
 </ul>
 
-<h1>Software project part</h1>
+<h1>Visual project part</h1>
 
 ![image0](https://github.com/JustSashaUP/bank-managment-system/assets/94720780/ca0cc847-c86e-4055-aa83-41da4d3eb1cd)
 ![image1](https://github.com/JustSashaUP/bank-managment-system/assets/94720780/a538673f-8468-441e-adb1-694f386aa13a)
